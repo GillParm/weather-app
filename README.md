@@ -1,6 +1,7 @@
 # vue-weather
 
 ## uses OpenWeather API to search and display weather from accross the globe
+## Demo <a href="https://gillparm.github.io/weather-app/" target="_blank">Here</a>
 
 #### by Parmandeep Gill
 
